@@ -1,0 +1,13 @@
+Phần 1: so sánh
+
+Tiêu chí | Zalo | Lark, Slack
+1. Phân loại tin | 1 hàng chung | chia Channel, Thread
+2. Tin quan trọng | dễ bị trôi | ghim được
+3. Tìm file cũ | khó tìm | tìm theo từ khóa
+4. Quản lý việc | không có | có Task, deadline
+5. Phân quyền | không rõ | có phân quyền
+
+Phần 2: đánh giá
+hầu hết công ty IT dùng Lark, Slack vì tin nhắn chia rõ, tìm lại nhanh, giao việc có deadline nên ít phải họp hỏi lại, tiết kiệm nhiều giờ họp.
+
+Giải pháp tin nhắn bị phẳng: chia channel theo chủ đề, dùng Thread để trả lời, ghim thông báo và tạo Task có deadline.
